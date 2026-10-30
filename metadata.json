@@ -1,0 +1,6 @@
+{
+  "name": "Mainframe | Creative Agency",
+  "description": "Mainframe is a creative studio and agency featuring A.R.I.A, an interactive interface agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
